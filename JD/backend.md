@@ -20,4 +20,5 @@ Infrastructure in Kubernetes, AWS
 * 5+ years of experience working with a backend server-side framework and experience building SaaS products, ideally with Python
 * Experience with at least one major cloud provider (AWS, GCP, Azure)
 * Experience in producing and consuming RESTful APIs.
+* Devops experience
 * Experience with GIT, CI/CD pipelines
