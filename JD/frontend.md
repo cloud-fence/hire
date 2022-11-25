@@ -2,10 +2,10 @@
 Make cloud security a plug and play for our customers
 
 ## Our stack:
-Typescript, React, GraphQL
-Design system based in Figma, with components in Storybook
-Backend running on Python, Node.js, PostgreSQL, Mango DB
-Infrastructure in Kubernetes, AWS
+* Typescript, React, GraphQL
+* Design system based in Figma, with components in Storybook
+* Backend running on Python, Node.js, PostgreSQL, Mango DB
+* Infrastructure in Kubernetes, AWS
 
 ## Responsibilities:
 * Develop functional business friendly interfaces

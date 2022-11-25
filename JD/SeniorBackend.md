@@ -3,10 +3,10 @@ Make cloud security a plug and play for our customers
 
 ## Our stack:
 
-Typescript, React
-Design system based in Figma, with components in Storybook
-Backend running on Python, Node.js, PostgreSQL, Mango DB
-Infrastructure in Kubernetes, AWS
+* Typescript, React, GraphQL
+* Design system based in Figma, with components in Storybook
+* Backend running on Python, Node.js, PostgreSQL, Mango DB
+* Infrastructure in Kubernetes, AWS
 
 ## Responsibilities:
 
@@ -17,7 +17,7 @@ Infrastructure in Kubernetes, AWS
 
 ## Desired Experiences:
 
-* 5+ years of experience working with a backend server-side framework and experience building SaaS products, ideally with Python
+* 6+ years of experience working with a backend server-side framework and experience building SaaS products, ideally with Python
 * Experience with at least one major cloud provider (AWS, GCP, Azure)
 * Experience in producing and consuming RESTful APIs.
 * Devops experience
